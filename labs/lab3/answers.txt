@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Bubble sort is Ω(n) and sort1 has the lowest runtime when sorting sorted50000.txt.
+
+sort2 uses: merge sort
+
+How do you know?: Merge sort is O(n log n) being the most efficient algorithm when comparing to bubble and selection sort. Sort2 have the lowest runtime sorting reversed50000.txt
+
+sort3 uses: selection sort
+
+How do you know?: Selection sort is Θ(n²) and sort3 sorts reversed50000.txt and sorted50000.txt at a similar timeframe.
